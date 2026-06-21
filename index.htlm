@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="x-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu site</title>
+
+<link rel="stylesheet" href="style.css">
+
+
+</head>
+<body>
+<h2>⭐ Bem-vindo ao site do Macaia</h2>
+
+
+
+<strong>
+<h3>Aqui encontraremos os carros 100% electricos e acessível ao vosso bolso e 100% electrico diz <q><mark>0% de poluição<mark> 
+</q> mantendo o mundo mais saudável, clique nas imagens para escolher.</h3>
+</strong>
+<br></br>
+<h1></h1>
+
+<a href="tesla.htlm"><img src="Tesla2.jpg" alt="Minha foto" width="100"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="Toyota.htlm"><img src="toyota.jpg" alt="Minha foto" width="105"></a>
+
+&nbsp;
+
+
+
+
+
+</body>
+</html>
+
+
+
